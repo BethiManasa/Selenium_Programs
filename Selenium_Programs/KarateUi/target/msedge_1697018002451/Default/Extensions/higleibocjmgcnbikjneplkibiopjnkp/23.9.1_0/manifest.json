@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "assets/images/icon-inactive-16.png",
+         "24": "assets/images/icon-inactive-24.png",
+         "32": "assets/images/icon-inactive-32.png",
+         "48": "assets/images/icon-inactive-48.png"
+      },
+      "default_popup": "/popup/inactive-popup.html",
+      "default_title": "Nexthink"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_security_policy": {
+      "extension_pages": "default-src 'none'; script-src-elem 'self'; style-src-elem 'self'; "
+   },
+   "description": "Extends Nexthink Infinity to add experience optimization for SaaS and other web applications",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "assets/images/icon-128.png",
+      "16": "assets/images/icon-active-16.png",
+      "24": "assets/images/icon-active-24.png",
+      "32": "assets/images/icon-active-32.png",
+      "48": "assets/images/icon-active-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqe1WmOSO7XYZWSk+5857MG5y0N2PM2EiY4mcD2b98kpRvxXIsTTa3AIt55UWusw91t4svhVqclUVMVnDw1HFBzF2Dj+lxTyzUAhRk5zbFr5+V5QgMxtDm4R2jLxgMnAKaqe29qDcX9MFBfUm+k/FU/KbUduk63lvuUAkiTx9jwq1IuV9n8exIqBaCRRjrG/cnJshy04Q3Q2AS6L5V9TIdSCmJS9ocAnqUnIMoRY+7smo/WyvbY+YsL+PRcibem9PhYnnw+XcADpbrte+8N8fw+IXEaHtKd4JZ0tvN+Efq3SPH/1YVL+dAOIKzzlD8I/giWAvavIodC2jiifaNTAiswIDAQAB",
+   "manifest_version": 3,
+   "name": "Nexthink",
+   "permissions": [ "alarms", "idle", "nativeMessaging", "scripting", "storage", "tabs", "webNavigation", "webRequest" ],
+   "short_name": "Nexthink Browser Extension",
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "23.9.1",
+   "version_name": "23.9.1-a1ff6bc6"
+}

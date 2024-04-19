@@ -1,0 +1,1728 @@
+<site-list version="159">
+  <site url="wtr.capgemini.fr">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.67.1.153">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="itwtrweb.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wtrittest.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="uatsbhadtx03.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="nldcamisdtx03">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="certificate.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="fiebsroas.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frpargfsarchas1.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ebsrs.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="nop-ce.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="upp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="csresume.nar.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="fiebsbas.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="missbhadtx03.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ematch.capgemini.nl">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="tntcg030">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="n2k.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="phxsateon01">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="dcaa.chrysaor.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gbi-development.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="caonmiappvw04">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="facilitor.nl.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="bisbee.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="bismarck.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.67.1.152">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="nldcavm16934905.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gbi.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="217.77.198.163">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="pon.es.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="isis.ce.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+  <site url="frtlshpalmsht.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="webtools.es.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ponar.capgemini.es">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ponco.capgemini.es">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sirio.in.azi.allianzit">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sirio.te.azi.allianzit">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sirio.pp.azi.allianzit">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sirio.azi.allianzit">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="eropcz.ce.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="pdmfe.iveco.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="remote.pidpa.be">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="chartofcontroldev.marelli.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="almgrdf.saas.microfocus.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="alm-3.external.hp.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="discoverer.maxeoncorp.com:8090/discoverer/">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="discoverer.maxeoncorp.com:8090/discoverer/app">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="discoverer.maxeoncorp.com:8090/discoverer/plus">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="qc-alm.mpsa.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="boc.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sspoam.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="life.us.sogeti.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="connect.euroclear.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.61.200.38">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="kubusweb-external.hochtief.de">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="hexavision.redeempresa.bradesco">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="capgemini.optimus.app.br">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="dgbariaba.gbimbo.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ctr.ce.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="portaal.cloud-wp.nl">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mxapl200300.bxxi.com:8001">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in app="true" allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.61.200.38/doc/page/preview.asp">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.robinsonsretail.com.ph">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="download.pingan.com.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="corp.bank.ecitic.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="corporbank.abchina.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ebank.sdb.com.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="bcdelta099">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="tgbariaba.gbimbo.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="pgbariaba.gbimbo.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gfs.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="alm.bmwgroup.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wapuk1.cloudservices.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wapuk2.cloudservices.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="siebelm2m.si.orange.es">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="1.0.59.90">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="1.0.59.87">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="auth.dictu.nl">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="edi7.itau.com.br">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="us.team.newmarketinc.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.9.12.179">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="fsg-tor1-52">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.9.12.180">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="fsg-tor1-53">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="apps.us.sogeti.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="careers.us.sogeti.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="campariusa.xtelcloud.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="virtualservices.bnl.echonet">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="192.168.248.113">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="erp.tpicomp.com">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="prp.es.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="intranet85.unitario.bradesco.com.br">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="vpnssl.fazenda.sp.gov.br">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="tpicomposites.okta.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.246.51.160">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="qc1255.dhl.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="projectsetup.fs.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.samsungvpn.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.smart-office.co.kr">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.telegrama.com.br">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="selfservice.sdworx.co.uk">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="142.164.162.26">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.236.230.78">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mplwin0672.adr.michelin.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="almenigaseluce.saas.microfocus.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="avc-na.allianz.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="apugbovalmp.servizi.gr-u.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="almpg1551.saas.microfocus.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="manot2cu.tsm.inet">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wbsdas51.wind.root.it">
+    <compat-mode>IE7</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wbs-arem.wind.root.it">
+    <compat-mode>IE7</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="evncpaq1exa.ae.ge.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="appcpad3.ae.ge.com">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="erpprod.aleris.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="erppre.aleris.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frankfvapl189.gbl-lan.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frankfvapl137.gbl-lan.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frankfvapl167.gbl-lan.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frankfvapl163.gbl-lan.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frankfvapl197.gbl-lan.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frankfvapl136.gbl-lan.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frankfvapl171.gbl-lan.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="cbsprd.cgn.canon-europa.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.246.51.159">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.246.51.158">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.246.50.45">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.236.231.55">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="hpalm.apps2.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="manot1cu.tsm.inet">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="vpnssl.virtual.posteitaliane.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="portal.adp.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.11.8.10">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.veritas-solutions.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ppm.av.ge.com">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="jdeindia.michelin.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.120.0.143">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ebsliv.jashanmal.org">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="crma-collint.telecomitalia.local">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gri.sdr.tesa">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="adpc.adp.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.digecenter.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.196.210.41">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="hpqc.warnerbros.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="vras-asb.tnsi.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="blr-ca.net.nokia.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="hpalm-ci.fr.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="edwebid5.edwardshighvacuum.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.53.36.7">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="kronprod.aleris.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="performancecenter.t-mobile.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.195.141.137">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="g2t4632.austin.hpe.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mydigitalbadge.hpe.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="intranet8.unitario.teste.bradesco.com.br">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.195.141.136">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="imaxapps.celerity.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.rcashasp1.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="oracleapps-test35.vmware.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.195.141.135">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="daytona.racetrac.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="windintegrationtest.wind.root.it">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="jasutlmii1">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointbrdev.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointbrepi">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointbrepi.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointbrtst.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointcldev.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointclepi">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointclepi.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointcltst.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointdev.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointepi">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointepi.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointfrdev.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointfrepi">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointfrepi.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointfrtst.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointirldev.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointirlepi">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointirlepi.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointirltst.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointitdev.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointitepi">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointitepi.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointittst.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointpedev.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointpeepi">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointpeepi.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointpetst.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointptdev.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointptepi">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointptepi.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointpttst.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointtst.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointukdev.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointukepi">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointukepi.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="infopointuktst.epi.securitasdirect.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.globalservices.bt.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.sso.myaccount.globalservices.bt.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="oracleapps-test12.vmware.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="remoteaccesshq.hovione.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ctx-sam-t2-defr1.cgadmin.cgaoms.ad">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="siebelm2m.int.si.orange.es">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="intinforeg.justicia.es">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="pl-snn-as-063.canonhosted.net">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="alm12.qc.tieto.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="prospettivaonline.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="caonmiapp01.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="caonmiapp01">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="usilerp03.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="usilerp03">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="bdirect.aero.bombardier.com">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="c09rs75p.carters.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="hyperion.rccl.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frparheldb1.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frparhelwb3.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="oracleapps-uat2.vmware.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="oracleapps-dev15.vmware.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="oracleapps-dev12.vmware.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wms12uiprod.carters.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.cyscape.com/showbrow.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ifhfm112pws1">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="frparifhfmuweb.corp.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="telia.se">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="teliasonera.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="teliacompany.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="akfp.ddc.teliasonera.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="c09rs82p.carters.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="c15rs75qa.carters.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mplwin0328.mpl.michelin.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="erp-qa.tpicomp.com">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gta.sita.fr">
+    <compat-mode>IE5</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="erop.ce.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="erophu.ce.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ce-apps02">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="erophutest.ce.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="eropcztest.ce.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="192.168.224.93">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="v5.samsungvpn.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="v4cn.samsungvpn.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="eu1cog3.concursolutions.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mxapl200300.bxxi.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="erp500mx.bxxi.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="pswpp.bmwgroup.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="stanangt03.sita.fr">
+    <compat-mode>IE5</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sefrapp00668">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.219.0.144">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="stavilgt20.sita.fr">
+    <compat-mode>IE5</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="stavilgt21.sita.fr">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="stavilgt22.sita.fr">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="fssfedpitc.ge.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ecm.aero.bombardier.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="rqc.retalix.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.55.184.183">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="pgbariabae.bimboconnect.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="app-hpqc-prd-04.ca.boeing.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="cert.gruppohera.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="15.128.200.17">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="td-almhp">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="quality.eng.vmware.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="rmctx.trip.co.uk">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="paymentservices.bacs.co.uk">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="hochtief-citrix.capgemini.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="alm.farmersinsurance.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="almgrdf1501.saas.microfocus.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sdr-cl-wsgui.telecomitalia.local">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="dtu-cl-wsgui.telecomitalia.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sdr-cl-appgui.telecomitalia.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="dtu-cl-appgui.telecomitalia.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="tibcca02.telecomitalia.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ngmafs01.telecomitalia.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="avascolfe01.telecomitalia.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="avasvmev01">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="resonance.rd.honda.co.jp">
+    <compat-mode>IE5</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gdwtrwebwv01p.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gdwtrwebwv02p.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gdwtrwebwv03p.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.67.1.151">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="corporbank.icbc.com.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="corporbank-simp.icbc.com.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="idse.imss.gob.mx">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="telasnegocio.stf.ti.aznxt.local">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="se003a1dev.ddc.teliasonera.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="se100a1wlst.ddc.teliasonera.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="a1at.ddc.teliasonera.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="a1atw.ddc.teliasonera.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="141.129.80.216">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="lnxsfln1i.qa.unix.banorte.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="allsagcert.alleanzaassicurazioni.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="allsvgcert.alleanzaassicurazioni.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="allsvgprod.alleanzaassicurazioni.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="alm.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="almsvil.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="alnsagcert.alleanzaassicurazioni.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="alnsvgperf.alleanzaassicurazioni.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="d3webapps01">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gengmccert.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gengmcprod.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="namcprofcert.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="namkprofcon1.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="namkprofcon2.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="nammprofmnt.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="qlik.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="qlikcert.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="qliksvil.generali.it">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sp2013.enterprise.generali.com">
+    <compat-mode>IE10</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="allncoprod.alleanzaassicurazioni.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="allsiccert.alleanzaassicurazioni.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="almiscert.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="apigateway.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="apigateway-mv.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="apigateway-pd.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="applicationextsvil.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="applicationsvil.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="appscan.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="artecanary.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="botcert.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="botprod.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="c-dataquality.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="certpki.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="c-ldapmng.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="collaborationextsvil.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="collaborationsvil.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="cv.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="duvri.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="eaiadx01-pers.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ecmacmcert.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ecmacmprod.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gdm.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gengmcperf.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gepawmperf.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gepgdbcert.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gepgdbprod.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gfngfvcert.genertel.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gfngfvperf.genertel.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gfngfvx1vh.genertel.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gfnsagc1vh.genertel.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gfnsagperf.genertel.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gfnsagx1vh.genertel.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ggssagmnt1.inadg.gruppoina.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ggssagsvi1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gsocanarycalled.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="gsocanarycaller.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="identityserver-marketplace.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="immagina.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="inad2kcntcert.inadg.gruppoina.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="inad2kcntprod.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="inaivpprod.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="inasagcert.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="inasdgprod.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="intranetsvi.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="intranetsvil.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="jkeprod3.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ldapmng.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="m-geocall.genertel.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mlidrimain.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpegdbmnt1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpegdbsvi1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpegdmcon1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpegdmsvi1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpegmccert.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpegmccon1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpegmcprod.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpegmcsvi1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpesagmnt1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpesagsvi1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpescasvi1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpesdgcon1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpesdgcon3.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpesdgman1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpesdgsvi1.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mpesdgsvi2.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="mppasx02.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="pagamentidigitali.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="portalearchitetture.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sapfscd.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="servicemonitor.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="s-ldapmng.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="s-ldapmngweb.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sp.generaligroup.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sp2013.generaligroup.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sp2013.teamwork.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sp2013.webcert.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sp2013cert.generaligroup.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="webapp.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="webappcert.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="webappext.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="webgednat.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="webguidelines.generali.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="webpactump.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="webselfcareperf.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wiki.mdc.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wpsgenprod.generali.it">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="oracleapps-uat1.vmware.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.upstream-c4.io">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="simulator.upstream-c4.io">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="cq-netapps.aricent.com/cqweb">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="xenapp6lb.ipaper.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ebsdev.eu.aswatson.net">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="int2.lawson.slb.com:83">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="lawson.slb.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="webqa91.lawson.slb.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="author.us.confirmit.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="author.euro.confirmit.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="yotta.hp.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="ucxx.sogeti.be">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="alm.novelis.biz">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="sdr-cl-wsgui.telecomitalia.local:5602/SDR/PORTAL">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="lnx002833.mpl.michelin.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="lnx003114.mpl.michelin.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="payforceagus.adp.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="signin.online.adp.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="home.peopleclick.eu.com">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="rms.peopleclick.eu.com">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="corp.makemylabs.in">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="www.networkflow.tsm.es">
+    <compat-mode>IE7Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="browserleaks.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="nop-sogeti.capgemini.com">
+    <compat-mode>IE9</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.242.19.16:8880/test/">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.242.19.16:8889/test/">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.248.164.224/StubEF_new">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="pcsswde0.eu.airbus.corp">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="10.219.0.143">
+    <compat-mode>IE5</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wtrituat.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wtrituatweb.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="wtrituatora.corp.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://wtrfruatap.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="http://sefrapp03074">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="itwtrweb.capgemini.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <shared-cookie domain=".ssoprep.capgemini.com" name="pingone.risk.browser.profile" path="/" source-engine="Both" comment="Needed for WTR">
+  </shared-cookie>
+</site-list>

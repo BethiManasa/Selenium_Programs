@@ -1,0 +1,69 @@
+{
+   "checksum": "4b4d9ed9a77b5780fc15915b49aac4c3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13315063623390541",
+               "date_last_used": "0",
+               "guid": "2b9bd9e7-8f53-4658-a1d0-56b7f19c20f4",
+               "id": "8",
+               "name": "ItaaS Portal",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://groupit.capgemini.com/pages/services/itaas/"
+            }, {
+               "date_added": "13315063623374803",
+               "date_last_used": "0",
+               "guid": "ab3d1a2e-38d9-408c-b4a7-884226da9987",
+               "id": "10",
+               "name": "Service Central",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://servicecentral.capgemini.com/sc"
+            } ],
+            "date_added": "13341495288723707",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "9336ded9-e8a7-4312-bf26-42755c3c1a35",
+            "id": "7",
+            "name": "Capgemini",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13341495280021725",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13341495280021728",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13341495280021733",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
